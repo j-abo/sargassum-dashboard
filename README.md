@@ -27,7 +27,13 @@ cd sargassum-dashboard
 ---
 
 ## Running the code
-After setting up the virtual environment, simply run
+After setting up the virtual environment, start by running
+
+```bash
+pip install -r requirements.txt
+```
+
+This retrieves the modules required to run the program.
 
 ```python
 python d.py
